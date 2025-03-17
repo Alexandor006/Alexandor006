@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- Hi, my name is Alexander. I'm 18 years old.
+- 🌱 I’m currently learning in Tomsk Polytechnik UNIVERSITY
+- 🔭 I’m currently working on AI answering machine in telegram
+-    Mastered programming languages: C++, Python
 <!--
 **Alexandor006/Alexandor006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
