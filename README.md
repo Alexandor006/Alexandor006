@@ -1,10 +1,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/USERNAME](https://github.com/Alexandor006))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alehandrai)
 ## Hi there 👋
-- Hi, my name is Alexander. I'm 18 years old.
+- Hi, my name is Alexander. I'm 20 years old.
 - 🌱 I’m currently learning in Tomsk Polytechnik UNIVERSITY
 - 🔭 I’m currently working on AI answering machine in telegram
 -    Mastered programming languages: C++, Python
+-    Junior ML,AI developer
 <!--
 **Alexandor006/Alexandor006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
