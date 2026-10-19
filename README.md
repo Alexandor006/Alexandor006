@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/USERNAME](https://github.com/Alexandor006))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alehandrai)
 ## Hi there 👋
 - Hi, my name is Alexander. I'm 18 years old.
 - 🌱 I’m currently learning in Tomsk Polytechnik UNIVERSITY
